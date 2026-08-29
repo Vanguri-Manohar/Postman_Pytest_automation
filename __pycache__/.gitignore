@@ -1,0 +1,9 @@
+# Ignore virtual environment
+venv/
+
+# Ignore database files
+*.db
+
+# Ignore Python cache and pytest cache
+__pycache__/
+.pytest_cache/
